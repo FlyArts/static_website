@@ -1,0 +1,24 @@
+@charset "utf-8";
+body {
+	background: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+p {
+	color: #000000;
+}
+.powered-by{
+	text-align: right;
+}
+.members_shadow{
+	box-shadow: 0px 15px 10px rgba(0,0,0,0.4);
+}
+.thumbnail img{
+	border-radius: 50px;
+	height: 100px;
+	width: 100px;
+}
+.comment{
+	font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
